@@ -35,6 +35,12 @@ Tecla / Ação
   
 `-`	 Diminuir volume
 
+# 📚 Objetivo do Projeto
+
+Projeto criado para praticar:
+
+- Conceitos de Programação Orientada a Objetos
+
 Pressione Ctrl + C para sair.
 
 # 
